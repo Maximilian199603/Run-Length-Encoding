@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Run-Length-encoding-Tests", "Run-Length-encoding-Tests\Run-Length-encoding-Tests.csproj", "{DF2901B9-50A7-4CBB-A5C2-D1129B4B7D89}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Run-Length-encoding", "Run-Length-encoding\Run-Length-encoding.csproj", "{C032BB69-BD51-44D6-BBF4-361985AEABA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF2901B9-50A7-4CBB-A5C2-D1129B4B7D89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF2901B9-50A7-4CBB-A5C2-D1129B4B7D89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF2901B9-50A7-4CBB-A5C2-D1129B4B7D89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF2901B9-50A7-4CBB-A5C2-D1129B4B7D89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C032BB69-BD51-44D6-BBF4-361985AEABA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C032BB69-BD51-44D6-BBF4-361985AEABA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C032BB69-BD51-44D6-BBF4-361985AEABA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C032BB69-BD51-44D6-BBF4-361985AEABA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9A07EA7-73C7-411F-847A-ABD8BAC184AF}
+	EndGlobalSection
+EndGlobal

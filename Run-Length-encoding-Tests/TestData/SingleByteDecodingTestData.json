@@ -1,0 +1,31 @@
+[
+    {
+        "Input": [],
+        "ExpectedOutput": ""
+    },
+    {
+        "Input": [
+            3,
+            66,
+            0,
+            4,
+            99,
+            0
+        ],
+        "ExpectedOutput": "BBBcccc"
+    },
+    {
+        "Input": [
+            3,
+            66,
+            0,
+            4,
+            99,
+            0,
+            5,
+            57,
+            0
+        ],
+        "ExpectedOutput": "BBBcccc99999"
+    }
+]

@@ -1,0 +1,70 @@
+[
+    {
+        "Input": "1223334444",
+        "ExpectedOutput": [
+            "11",
+            "22",
+            "33",
+            "44"
+        ]
+    },
+    {
+        "Input": " ",
+        "ExpectedOutput": [
+            "1 "
+        ]
+    },
+    {
+        "Input": "111111111111",
+        "ExpectedOutput": [
+            "91",
+            "31"
+        ]
+    },
+    {
+        "Input": "",
+        "ExpectedOutput": []
+    },
+    {
+        "Input": "WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW",
+        "ExpectedOutput": [
+            "9W",
+            "3W",
+            "1B",
+            "9W",
+            "3W",
+            "3B",
+            "9W",
+            "9W",
+            "6W",
+            "1B",
+            "9W",
+            "5W"
+        ]
+    },
+    {
+        "Input": "xxxyyyzzz",
+        "ExpectedOutput": [
+            "3x",
+            "3y",
+            "3z"
+        ]
+    },
+    {
+        "Input": "cccccc",
+        "ExpectedOutput": [
+            "6c"
+        ]
+    },
+    {
+        "Input": "cccccc9999WWWXYZ",
+        "ExpectedOutput": [
+            "6c",
+            "49",
+            "3W",
+            "1X",
+            "1Y",
+            "1Z"
+        ]
+    }
+]

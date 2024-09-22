@@ -1,0 +1,22 @@
+[
+    {
+        "Input": "91",
+        "ExpectedOutput": "111111111"
+    },
+    {
+        "Input": "",
+        "ExpectedOutput": ""
+    },
+    {
+        "Input": "9W3W1B9W3W3B9W9W6W1B9W5W",
+        "ExpectedOutput": "WWWWWWWWWWWWBWWWWWWWWWWWWBBBWWWWWWWWWWWWWWWWWWWWWWWWBWWWWWWWWWWWWWW"
+    },
+    {
+        "Input": "3x3y3z",
+        "ExpectedOutput": "xxxyyyzzz"
+    },
+    {
+        "Input": "6c493W1X1Y1Z",
+        "ExpectedOutput": "cccccc9999WWWXYZ"
+    }
+]
